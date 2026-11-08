@@ -1,4 +1,4 @@
-# FarmNeural
+# farmneural-com
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,33 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FarmNeural LLC is an Arizona‑based precision‑irrigation SaaS founded in June 2026. It provides real‑time soil‑moisture monitoring, weather and evapotranspiration‑driven water budgeting, and tiered control of irrigation zones. Growers can reduce water use across crops—from row crops to vineyards—by integrating soil sensors and weather data, with options for full automation, team management, and device integrations.
+farmneural-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
 
-**Areas:** Company · Agriculture · Irrigation · SaaS · Water-Management · Precision-Farming
+**Areas:** Company
 
-## FarmNeural on APIs.io
+## farmneural-com on APIs.io
 
-Everything profiled for FarmNeural is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/farmneural-com/](https://apis.io/providers/farmneural-com/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [FarmNeural Public API](https://apis.io/apis/farmneural-com/farmneural-public-api/) — Public, read‑only marketing data for FarmNeural.
+Everything profiled for farmneural-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/farmneural-com/](https://apis.io/providers/farmneural-com/)** — or go straight to one of the APIs or properties below.
 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### Agentic access (1)
-
-Which operations an agent can call, which act, and which need a human in the loop.
-
-- [Farmneural Com Agentic Access](https://apis.io/agentic-access/farmneural-com/farmneural-com-agentic-access/)
-
-#### Governance rules (1)
-
-Spectral rulesets for the provider's contracts.
-
-- [FarmNeural API Rules](https://apis.io/rules/farmneural-com/farmneural-com-rules/)
 
 #### Security (1)
 
@@ -106,32 +90,32 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.4** — emerging · rubric 0.27.0 · scored 2026-11-07
+**Kin Score 4.3** — minimal · rubric 0.27.0 · scored 2026-11-08
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 30.4 |
 | Contract quality | 0.0 |
-| Contract governance | 22.0 |
+| Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 6.4 |
+| Developer ergonomics | 0.0 |
 | Access clarity | 13.2 |
 
-**Agent readiness 9.2** — agent-aware
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | derived (partial credit) |
+| Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
-| Error Semantics | derived (partial credit) |
+| Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | — |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -144,7 +128,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/farmneural-com/](https://apis.io/providers/farmneural-com/).
 
@@ -152,7 +136,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FarmNeural: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for farmneural-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
